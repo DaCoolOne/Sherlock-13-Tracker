@@ -1,4 +1,3 @@
-
 from sherlock_game import GameManager, DEFAULT_CARDS
 
 GAME_TRACKER = GameManager(DEFAULT_CARDS)
