@@ -41,7 +41,7 @@ each player). Obviously, you don't need to enter any data about the cards in you
 that a player guesses the culprit is. For example, if John guesses that the card is Inspector Lestrade but is wrong, you can
 enter `NOT LESTRADE` to eliminate the possibility.
 
-`SUGGEST` - The most powerful weapon, use it wisely. Considers all possible questions and outputs the question that yeilds the
+`SUGGEST` - The most powerful weapon, use it wisely (a.k.a, every chance you get). Considers all possible questions and outputs the question that yeilds the
 highest probability of giving a decisive result. Once you ask this question (or any question you would like) you can enter the
 data collected and watch the possibilities shrink.
 
