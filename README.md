@@ -29,7 +29,7 @@ both because it avoids a name conflict, and because the name "SHERLOCK" is cool.
 
 `STAT [Optional: COMMAND]` - Prints out statistics about the game currently. Can also be run as a prefix to another command, in
 which case it will print out statistics *as if* the command were the case (e.g, the command `STAT James HAS 2 BADGE` will
-output a statistics screen for the hypothetical case that Adam has two Badge cards, but the game state remains unchanged).
+output a statistics screen for the hypothetical case that James has two Badge cards, but the game state remains unchanged).
 
 `[Name] HAS [SOME / NO / Number] [PROPERTY]` - Used to update the statistical information about the game. This command should be
 used whenever you or another player asks a question. If asking a quantity question, use a number to represent the amount that
